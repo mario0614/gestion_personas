@@ -10,4 +10,9 @@ echo $persona2->saludar();
 $ventas = new ventas("mario",36,"mercado","adminimario_0614@outlook.es","propiedades");
 echo $ventas->saludar();
 
+$estudiante1 = new ventas("mario",36,"mercado","adminimario_0614@outlook.es","propiedades");
+echo $ventas->saludar();
+
+
+
 ?>
